@@ -11,4 +11,9 @@ Idea is to explore the real time aspects of the Phoenix Live View and get expose
 # Issues 
 1. role "postgres" does not exist
    Fixes by creating the role /usr/local/opt/postgres/bin/createuser -s postgres 
+   
+   
+# References 
+https://fly.io/blog/how-we-got-to-liveview/
+https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html#module-life-cycle
 
